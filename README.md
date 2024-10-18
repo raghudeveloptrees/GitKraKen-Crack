@@ -1,12 +1,12 @@
 # GitKraKen-Crack
 GitKraKen8.2.0-9.x cracking and use
 
-## 破解要求环境
+## Cracking requirements environment
 - Node.js Version>=12 LTS
 - yarn
 - GitKraKen v8.2.0-9.x
 
-## gitkraken下载地址
+## gitkraken download address
 [gitkraken](https://download.informer.com/win-1191574157-1b1c9f62-6084b40e-5a7f65fcf3e07bc817-a31562017cc669524-11273292-1079771430/gitkrakensetup.exe)
 
 ## Cracking steps
